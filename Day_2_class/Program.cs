@@ -6,7 +6,8 @@ namespace Day_2_class
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello World!");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello world program");
         }
     }
 }
